@@ -1,0 +1,39 @@
+.logo
+{
+    width: 15%;
+}
+.hero
+{
+    background: url(https://www.expertizo.pk/assets/img/hero-bg.png) top center no-repeat;
+    background-size: cover;
+}
+.hero-section
+{
+    padding: 60px 0px;
+}
+.hero-section h1
+{
+    color: #012970;
+}
+.hero-section h2
+{
+    color: #444444;
+}
+.pragraph1{
+   
+    padding: 40px;
+}
+.pragraph1 h2{
+    background-color: #f6f9ff;
+}
+.para1{
+    margin: 15px 0px 30px 0px;
+}
+.bg-left
+{
+    background-color: #f6f9ff;
+}
+.content
+{
+    padding: 25px;
+}
